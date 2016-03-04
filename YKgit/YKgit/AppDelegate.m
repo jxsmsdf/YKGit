@@ -9,7 +9,10 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+//如果有错误 在git的config文件写入
+//[user]
+//    email=qq445403341@163.com     邮箱
+//    name=YKGit    和工程名
 @end
 
 @implementation AppDelegate
